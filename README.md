@@ -5,7 +5,7 @@
 
 ## 🚀 What I’m Working On  
 - Crafting high-end web experiences with **Next.js, WebGL, and creative coding**  
-- Developing a **WebGL utility package** to simplify animations and rendering setups  
+- Developing a **WebGL utility package** to simplify animations and rendering setups with [gl-layer](https://github.com/abeltyr/gl-layer)
 
 ## 📬 Let’s Connect  
 📩 **Email:** [abel@assetgallery.co](mailto:abel@assetgallery.co) | [abel@eurka.co](mailto:abel@eurka.co)  
