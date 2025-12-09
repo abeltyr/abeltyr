@@ -1,12 +1,16 @@
-# Hi, I'm Abel 👋  
+Hi, I’m Abel 👋
 
-🚀 **Co-founder** of [AssetGallery.co](https://assetgallery.co) – a design inspiration hub  
-💻 **Co-founder** of [Eurka.co](https://eurka.co) – a development & design agency  
+💻 Co-founder of Eurka.co￼– Development & design agency
+💻 Co-founder of Bekur.co￼– Ticketing platform for events, classes, and concerts
+⚙️ Engineer building custom commerce and infrastructure tools
 
-## 🚀 What I’m Working On  
-- Crafting high-end web experiences with **Next.js, WebGL, and creative coding**  
-- Developing a **WebGL utility package** to simplify animations and rendering setups with [gl-layer](https://github.com/abeltyr/gl-layer)
+🚀 Current Projects
+	•	Medusa Scaffolder – CLI tool automating CRUD boilerplate and module generation for custom frameworks
+	•	Medusa.js Plugins & Extensions – Simplifying and accelerating development workflows
+	•	Bekur Platform – Full-featured ticketing system with seat management, wallets, credits, and event operations
 
-## 📬 Let’s Connect  
-📩 **Email:** [abel@assetgallery.co](mailto:abel@assetgallery.co) | [abel@eurka.co](mailto:abel@eurka.co)  
-💼 **Portfolio & Work:** [eurka.co](https://eurka.co)  
+📬 Connect with Me
+
+📩 Email: abel@eurka.co
+💼 Portfolio & Work: eurka.co￼
+
