@@ -9,8 +9,9 @@ Hi, I’m Abel 👋
 	•	Medusa.js Plugins & Extensions – Simplifying and accelerating development workflows
 	•	Bekur Platform – Full-featured ticketing system with seat management, wallets, credits, and event operations
 
+
 📬 Connect with Me
 
 📩 Email: abel@eurka.co
-💼 Portfolio & Work: eurka.co￼
 
+💼 Portfolio & Work: https://eurka.co￼
